@@ -11,14 +11,14 @@ web systems in Agile Methodology with SCRUM framework.
 ## 🛠 About  <img src="https://github.com/perolanegra/perolanegra/raw/master/assets/life_balance.gif" width="29px">
   
 <img src="https://github.com/perolanegra/perolanegra/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/perolanegra"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href="https://ko-fi.com/perolanegra"> <img src="https://i.imgur.com/A2dBMbT.png" align="right" width="100" height="auto"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 Currently working with Angular17, and NodeJS
   - 🌱 Learning Go 
   - ⚡ Fav Hobbie: Forró 
   - 😄 Curious stuff: Founder of AngularBA Comunity 
 
-  <img src="https://i.imgur.com/A2dBMbT.png" align="right" width="200" height="auto">
+  
 
 
   #### 📫 How to reach me:
