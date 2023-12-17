@@ -18,9 +18,11 @@ web systems in Agile Methodology with SCRUM framework.
   - ⚡ Fav Hobbie: Forró 
   - 😄 Curious stuff: Founder of AngularBA Comunity 
 
-  <img src="https://drive.google.com/file/d/197zg_t9eN1SwQrxkGz8TM5myerI_juhC/view">
-  
+  <img src="https://imgur.com/a/0Fbb5Vo">
+
+
   #### 📫 How to reach me:
+  
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbaiano/)  
   [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perolanegra/)  
   
