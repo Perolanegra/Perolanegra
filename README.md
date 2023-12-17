@@ -51,3 +51,19 @@ web systems in Agile Methodology with SCRUM framework.
   [![Stats](https://github-readme-stats.vercel.app/api?username=perolanegra&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=perolanegra&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/perolanegra/perolanegra/blob/master/assets/saved.gif" width="195">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=perolanegra&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=perolanegra&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)    
+
+
+  ## *A few repositories to check its coding*
+
++ <a href="https://github.com/Perolanegra/asset-variation-exam"><kbd>*asset-variation-exam*</kbd></a>
++ <a href="https://github.com/Perolanegra/ng-forum"><kbd>*ng-forum*</kbd></a>
++ <a href="https://github.com/Perolanegra/ng-rest"><kbd>*ng-rest*</kbd></a>
++ <a href="https://github.com/Perolanegra/ekan-exam"><kbd>*ekan-exam*</kbd></a>
++ <a href="https://github.com/Perolanegra/ekan-exam-api"><kbd>*ekan-exam-api*</kbd></a>
++ <a href="https://github.com/Perolanegra/ng-exam-rxjs-reactive"><kbd>*ng-exam-rxjs-reactive*</kbd></a>
++ <a href="https://github.com/Perolanegra/dynamic-abstraction-poc"><kbd>*dynamic-abstraction-poc*</kbd></a>
++ <a href="https://github.com/Perolanegra/commander_app"><kbd>*commander_app*</kbd></a>
++ <a href="https://github.com/Perolanegra/ecommerce"><kbd>*ecommerce*</kbd></a>
++ <a href="https://github.com/Perolanegra/StorageService"><kbd>*StorageService*</kbd></a>
++ <a href="https://github.com/Perolanegra/ng-module-federation"><kbd>*ng-module-federation*</kbd></a>
++ <a href="https://github.com/Perolanegra/right-stakes"><kbd>*right-stakes*</kbd></a>
