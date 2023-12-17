@@ -18,7 +18,7 @@ web systems in Agile Methodology with SCRUM framework.
   - ⚡ Fav Hobbie: Forró 
   - 😄 Curious stuff: Founder of AngularBA Comunity 
 
-  <img src="https://imgur.com/a/0Fbb5Vo">
+  <img src="https://i.imgur.com/A2dBMbT.png" align="right" width="200" height="auto">
 
 
   #### 📫 How to reach me:
