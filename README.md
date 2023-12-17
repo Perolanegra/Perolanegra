@@ -25,7 +25,7 @@ web systems in Agile Methodology with SCRUM framework.
 
   #### 📫 How to reach me:
 
-  <img src="https://i.imgur.com/A2dBMbT.png" align="right" style="position: relative; top: -8rem; left: -5rem;" width="100" height="auto">
+  <img src="https://i.imgur.com/A2dBMbT.png" align="right" style="position: relative; top: -20rem; left: -5rem;" width="100" height="auto">
   
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbaiano/)  
   [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perolanegra/)  
