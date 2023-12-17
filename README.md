@@ -13,7 +13,7 @@ web systems in Agile Methodology with SCRUM framework.
 <img src="https://github.com/perolanegra/perolanegra/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/perolanegra"> 
 <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
-<img src="https://i.imgur.com/A2dBMbT.png" align="left" width="100" height="auto"> 
+<!-- <img src="https://i.imgur.com/A2dBMbT.png" align="left" width="100" height="auto">  -->
  </a>
   
   - 🔭 Currently working with Angular17, and NodeJS
