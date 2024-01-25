@@ -50,6 +50,7 @@ web systems in Agile Methodology with SCRUM framework.
 
   ## *A few repositories to check its coding*
 
++ <a href="https://github.com/Perolanegra/novadata_exam"><kbd>*novadata-exam*</kbd></a>
 + <a href="https://github.com/Perolanegra/asset-variation-exam"><kbd>*asset-variation-exam*</kbd></a>
 + <a href="https://github.com/Perolanegra/ng-forum"><kbd>*ng-forum*</kbd></a>
 + <a href="https://github.com/Perolanegra/ng-rest"><kbd>*ng-rest*</kbd></a>
