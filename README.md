@@ -5,7 +5,7 @@
 + Strong experience with Javascript Stack and NodeJS crafting
 web systems in Agile Methodology with SCRUM framework.
 + Enthusiast for JS, quick learner and curious for new techs.
-# 👩‍💻 Igor Silva <span style="font-family: Tahoma; font-size: 1.5rem;">(Software Developer)</span>
+# 👩‍💻 Igor Alves <span style="font-family: Tahoma; font-size: 1.5rem;">(Software Developer)</span>
 
 
 ## 🛠 About  <img src="https://github.com/perolanegra/perolanegra/raw/master/assets/life_balance.gif" width="29px">
