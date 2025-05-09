@@ -1,7 +1,7 @@
 
 # *Hey, there*! 👋  
 + Focus on full stack development of responsive applications with Angular Framework.
-+ 7 years of experience. 
++ 8 years of experience. 
 + Strong experience with Javascript Stack and NodeJS crafting
 web systems in Agile Methodology with SCRUM framework.
 + Enthusiast for JS, quick learner and curious for new techs.
