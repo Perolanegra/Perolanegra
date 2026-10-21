@@ -1,8 +1,8 @@
 
 # *Hey, there*! 👋  
 + Focus on full stack development of responsive applications with Angular Framework.
-+ 8 years of experience. 
-+ Strong experience with Javascript Stack and NodeJS crafting
++ 9 years of experience. 
++ Strong experience with Javascript Stack, NodeJS, C# with .NET and Java with Spring Boot crafting
 web systems in Agile Methodology with SCRUM framework.
 + Enthusiast for JS, quick learner and curious for new techs.
 # 👩‍💻 Igor Alves <span style="font-family: Tahoma; font-size: 1.5rem;">(Software Developer)</span>
@@ -14,7 +14,7 @@ web systems in Agile Methodology with SCRUM framework.
 <img src="https://i.imgur.com/A2dBMbT.png" align="right" width="100" height="auto">
   
   - 🔭 Currently working with Angular21, NodeJS, Go, React, Typescript, IONIC Framework, Python Django
-  - 🌱 Always trying to learn a bit more  
+  - 🌱 Always crafting something intriguing  
   - ⚡ Fav Hobbie: Forró 
   - 😄 Curious stuff: Founder of AngularBA Comunity 
 
