@@ -13,8 +13,8 @@ web systems in Agile Methodology with SCRUM framework.
 <img src="https://github.com/perolanegra/perolanegra/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <img src="https://i.imgur.com/A2dBMbT.png" align="right" width="100" height="auto">
   
-  - 🔭 Currently working with Angular17, and NodeJS
-  - 🌱 Learning Go 
+  - 🔭 Currently working with Angular21, NodeJS, Go, React, Typescript, IONIC Framework, Python Django
+  - 🌱 Always trying to learn a bit more  
   - ⚡ Fav Hobbie: Forró 
   - 😄 Curious stuff: Founder of AngularBA Comunity 
 
